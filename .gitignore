@@ -1,0 +1,8 @@
+purephp/env.php
+purephp/app/bd/*.*
+purephp/app/bd/
+purephp/app/bd
+
+purephp/imagenes/webs
+purephp/imagenes/webs/
+purephp/imagenes/webs/*.*
